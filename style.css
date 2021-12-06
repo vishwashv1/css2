@@ -1,0 +1,76 @@
+  .body {
+            background-image:url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=626&ext=jpg);
+            background-size:cover;
+            /* width:100vw;
+            height:100vw; */
+        }
+        .flex-container{
+            border:0px;
+            display:flex;
+            justify-content:flex-start;
+            align-items:center;
+        }
+        .flexbox-item{
+            border:5px solid red;
+            color:white;
+            background-color: black;
+            border-radius:20px;
+            display:inline;
+            font-size:30px;
+            width:500px;
+            height:80px;
+            margin:40px;
+            padding: 25px;
+        }
+        .box2{
+            margin-left: -100px;
+            height:30px;
+            border-radius:50px;
+            width:700px;
+            padding-top: 30px;
+        }
+        .flex-container1{
+         border: 7px dashed red;
+         width:500px;
+         align-content: flex-end;
+         margin: 40%;
+         margin-top: -30%;
+         background-color: white;
+        }
+        .first{
+        color:rgb(201, 55, 36);
+        }
+        .circle{
+            background-color:#82a087;
+            border:5px solid rgb(194, 50, 50);
+            border-radius: 100%;
+            height:20em;
+            width: 20em;
+            text-align: center;
+            margin-left:3%;
+        }
+        .flex-item2{
+            text-decoration: underline;
+            text-decoration-color: black;
+
+        }
+        .start1{
+            border-top-left-radius: 200px;
+            border-top-right-radius: 200px;
+            padding-top:100px;
+            scroll-padding-block: 300px;
+        }
+        .MENU{
+            color:white;
+            background-color: black;
+            border:4px solid red;
+            border-radius: 40px;
+            text-align: center;
+            padding:20px;
+            width:300px;
+            margin-top:-38%;
+        }
+        .css{
+            margin-top:-15%;
+        }
+    
